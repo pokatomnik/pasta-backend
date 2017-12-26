@@ -1,0 +1,12 @@
+{
+  "extends": "standard",
+  "rules": {
+    "semi": [2, "always"],
+    "quotes": [2, "single"],
+    "space-before-function-paren": 0,
+    "handle-callback-err": "off",
+    "sort-imports": "error",
+    "sort-keys": "error",
+    "sort-vars": "error"
+  }
+}

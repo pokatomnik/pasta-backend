@@ -1,0 +1,5 @@
+{
+  "mongoUri": "mongodb://localhost/pasta",
+  "port": 8080,
+  "helpUrl": "Not present yet"
+}
